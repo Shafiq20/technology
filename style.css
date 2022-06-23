@@ -1,0 +1,401 @@
+.navcolor{
+    background-color: black;
+}
+.navlogo{
+    padding-left: 333px;
+}
+
+#alllist{
+    padding-left: 430px;
+
+    font-family: "Montserrat", Sans-serif;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+.ullist{
+    text-align: center;
+}
+
+/*   --------------2nd part-----------*/
+/*
+.bgimg{
+    background-image: url('https://herman-technologies.com/wp-content/uploads/2022/04/background-min.png');
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 790px;
+}
+.text1{
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    text-transform: uppercase;
+    font-size: 100px;
+}
+*/
+/*   --------------background img and text start------------*/
+#backimg{
+    background-image: url(https://herman-technologies.com/wp-content/uploads/2022/04/background-min.png);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 755px;
+}
+.hermanhead{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    padding-top: 30px;
+}
+
+.hrtag{
+    width: 10%;
+    background-color: white;
+    margin-top: 77px;
+    margin-bottom: 42px;
+    opacity: 100%;
+    margin-left: 43%;
+    height: 2px;
+}
+
+.headline{
+padding: 10px;
+    
+}
+.text1{
+    color:white;
+    font-family:  "Montserrat", Sans-serif;
+    text-align: center;
+    padding: 24px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.text2{
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #2341F3;
+    padding: 25px 60px 25px 60px;
+    text-decoration: none;
+}
+.text2:hover{
+    color: white;
+}
+
+#btn{
+    
+    padding-left: 765px;
+}
+
+/*   --------------background img and text end------------*/
+
+/*   --------------2part start------------*/
+.secpart{
+    background-color: black;
+    padding-bottom: 40px;
+}
+.secpic{
+    padding-top: 190px;
+}
+.text3{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1.9px;
+    padding-top: 45px;
+    text-align: center;
+}
+.text4{
+    padding-top: 30px;
+    color: #BDBDBD;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    line-height: 1.8em;
+}
+.text5{
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1.9px;
+    padding-top: 150px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+.hrtag1{
+    width: 10%;
+    background-color: white;
+    margin-top: 47px;
+    margin-bottom: 42px;
+    opacity: 100%;
+    margin-left: 853px;
+    height: 2px;
+}
+.expert{
+    color: white;
+    text-align: center;
+    padding-top: 51px;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.expartlist{
+    color: white;
+}
+.icon1{
+    color: #2341F3;
+    padding-right: 12px;
+}
+.text6{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    letter-spacing: 2px;
+    padding-top: 100px;
+    padding-bottom: 80px;
+
+}
+/*   --------------2part end------------*/
+/*   --------------3part start------------*/
+.services{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: "Montserrat", Sans-serif;
+    padding-bottom: 20px;
+    
+}
+.servicebtn{
+    color: white;
+    border-color: blue;
+    padding: 12px 29px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid blue;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.servicebtn:hover{
+    color: white;
+    border: 1px solid white;
+
+}
+.text7{
+    margin-top: -98px;
+}
+
+/*   --------------3part end------------*/
+
+/*   --------------4part start------------*/
+
+.thirdpart{
+    background-color: black;
+    padding-bottom: 100px;
+    padding-top: 40px;
+}
+
+.text8{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    letter-spacing: 2px;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+/*   --------------4part end------------*/
+
+/*   --------------5th start------------*/
+
+.fivepartimg{
+    background-image: url(https://herman-technologies.com/wp-content/uploads/2022/04/3361981.webp);
+    width: 100%;
+    height: 585px;
+    background-position: 50%;
+    background-size: cover;
+}
+
+.spanpart{
+    color: #2453e0;
+}
+
+.text9{
+    color: white;
+    font-size: 60px;
+    padding-left: 349px;
+    padding-top: 239px;
+}
+.text10{
+    color: white;
+    text-decoration: none;
+    padding: 25px 60px 25px 60px;
+    border: 2px solid #2341F3;
+    background-color:#1F3CE7;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+    
+}
+.text10:hover{
+    color: white;
+}
+.text11{
+    padding-top: 40px;
+    margin-left: 350px;
+    
+}
+.hrtag3{
+    width: 10%;
+    background-color: white;
+    margin-top: 57px;
+    margin-bottom: 42px;
+    opacity: 100%;
+    margin-left: 350px;
+    height: 2px;
+}
+/*   --------------5th end------------*/
+/*   --------------6th start------------*/
+
+.hrtag4{
+    width: 12%;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 107px;
+    opacity: 100%;
+    margin-left: 627px;
+    height: 2px;
+}
+.sixpart{
+    background-color: #000;
+    padding: 138px 202px;
+}
+
+.sixparttext{
+    color: #2453e0;
+}
+
+.text12{
+    color: white;
+    font-size: 60px;
+    font-family: "Montserrat", Sans-serif;
+
+    text-align: center;
+}
+.text13{
+    color: #1F3CE7;
+    text-decoration: none;
+    padding: 25px 60px 25px 60px;
+    border: 2px solid #2341F3;
+    background-color:#ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+    
+}
+.text14{
+    padding-top: 45px;
+    margin-left: 639px;
+    
+}
+/*   --------------6th end------------*/
+/*   --------------7th start------------*/
+
+.lastpart{
+    background-color:#161616;
+    height: 470px;
+}
+
+.partone{
+    width: 40%;
+    height: 500px;
+    margin-left: 10%;
+    padding-top:68px;
+    height: 300px;
+}
+
+.parttwo{
+    text-align: right;
+    width: 40%;
+    height: 500px;
+    margin-bottom: -40px;
+    margin-left: 50%;
+    margin-top: -523px;
+    padding-top: 259px;
+}
+
+.leftpart{
+    margin-right: 50%;
+}
+.rightpart{
+    margin-left: 50%;
+    margin-top: -244px;
+}
+.leftparttex{
+    text-align: left;
+    list-style-type: none;
+}
+.rightparttex{
+    text-align: left;
+    list-style-type: none;
+}
+.link1{
+    font-size: 30px;
+}
+.link2{
+    font-size: 30px;
+    margin-left: 4%;
+}
+.link3{
+    color: white;
+    text-decoration: none;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+}
+.links{
+    margin-left: 19%;
+}
+.partoneimg{
+    margin-left: 19%;
+}
+.icon2{
+    color: white;
+}
+.icon3{
+    color: white;
+}
+.li1{
+    padding: 15px 0px;
+}
+.hrtag2{
+    background-color: white;
+    margin-top: 110px;
+    width: 66%;
+    opacity: 100%;
+    margin-left: 15%;
+}
+.lasttext{
+    color: white;
+    text-align: center;
+    padding-top: 13px;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+
+
+
